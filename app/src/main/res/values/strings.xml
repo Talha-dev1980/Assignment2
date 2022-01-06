@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assigment2</string>
+    <string name="val1">Value 1</string>
+    <string name="val2">Value 2</string>
+    <string name="answerIs">Your Answer Is</string>
+</resources>
